@@ -9,6 +9,6 @@ setlocale(LC_ALL, "portuguese");
     valorinteiro = valortotal;
     parcelas = valorinteiro / 3;
     entrada = valorinteiro - (parcelas * 2);
-    printf("o valor da entrada Ã©: %.3d, e das duas parcelas: 2x %.3d",entrada,parcelas);
+    printf("o valor da entrada é: %.3d, e das duas parcelas: 2x %.3d",entrada,parcelas);
     return 0;
 }
