@@ -8,5 +8,5 @@ scanf("%d",&numero);
 antecessor = numero - 1;
 sucessor = numero + 1;
 printf("o antecessor desse número é: %d e o sucessor é %d",antecessor,sucessor);
-    return 0;
+return 0;
 }
